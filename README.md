@@ -7,6 +7,10 @@
 
 The **Interactive SVM Classifier Explorer** is a Python-based web application built using Streamlit that empowers users to explore datasets, train Support Vector Machine (SVM) classifiers, and gain insights into the impact of hyperparameters.
 
+🔍 **Explore the project live**:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://svm-app.streamlit.app/)
+
 This interactive tool offers the following features:
 
 - **Dataset Selection**: Choose from three popular datasets: Iris, Breast Cancer, and Wine, to experiment with SVM classification.
