@@ -67,4 +67,4 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## Contact
 
-If you have questions, feedback, or need assistance, please reach out to [Your Name] at [your.email@example.com].
+If you have questions, feedback, or need assistance, please reach out to Abir Maiti at abirmaiti56@gmail.com.
